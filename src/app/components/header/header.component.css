@@ -1,0 +1,38 @@
+mat-toolbar{
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: whitesmoke
+}
+
+ul li{
+  list-style: none;
+}
+
+button{
+  border: 0;
+  outline:none;
+  background: transparent;
+
+}
+
+.user{
+  font: size 14px;
+
+}
+.user-image{
+  border-radius: 30%;
+  width:50%;
+  height:50%;
+}
+
+user-image-icon{
+  height:18px;
+  font-size: 16px;
+}
+
+
+.mat-menu-content{
+  width: 160px
+}
+

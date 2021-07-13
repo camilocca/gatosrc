@@ -1,0 +1,45 @@
+.logo{
+  text-align: center;
+  padding: 2.6rem 1rem;
+
+}
+.logo img{
+  width: 200px;
+}
+
+.mat-icon{
+  vertical-align: center;
+  margin-right: 1rem;
+}
+
+.mat-divider{
+  border-top-width: 2px;
+  border-color: aliceblue;
+
+}
+
+.mat-list-item{
+  color: whitesmoke;
+  font: 0.8rem;
+  height: 44px;
+  margin-bottom: 4px;
+  border-radius: 5px;
+  margin: 0 8px;
+
+}
+.mat-list-item:hover{
+  color: rgb(0, 255, 64);
+
+}
+
+.list-item-active{
+  color: white;
+
+}
+
+.mat-subheader{
+color: rgb(255, 255, 255);
+font-size: 0.6rem;
+font-weight: 100;
+letter-spacing: 1px;
+}
